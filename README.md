@@ -1,5 +1,6 @@
 # Projetovendas
-• Uma solução integrada para o sucesso do seu negócio de vendas
+- Uma solução integrada para o sucesso do seu negócio de vendas
+  
 • Operação de venderProduto() em ProdutosDAO – a função deve atualizar o status de um produto para “Vendido”.
 • Operação de listarProdutosVendidos() em ProdutosDAO – a função deve buscar todos os produtos no banco de dados com o status “Vendido”.
 • Deve ser implementada uma tela de Vendas exibindo apenas os itens com status “Vendido”.
